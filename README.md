@@ -10,3 +10,5 @@ License
 -------
 
 3-clause BSD. See LICENSE file.
+
+현재 K-CODER에서 사용중
